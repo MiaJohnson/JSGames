@@ -1,0 +1,25 @@
+body {
+    background: white;
+}
+
+#container{
+    position:absolute;
+    width: 800px;
+    transform: translate(-50%, -40%);
+    top: 50%;
+    left: 50%;
+    font-size: 25px;
+}
+
+#mainCanvas { 
+    position: relative;
+    width: 800px;
+    height: 700px;
+}
+
+#slider {
+    width: 100%;
+}
+h1, p {
+    color: black;
+}
